@@ -30,7 +30,7 @@ let All_song = [{
 		img: "images/initiald.jpg",
 		singer: "Dave Rodgers",
         bg_color: "#fff",
-		bg_video: "video/InitialD.mp4"
+		bg_video: "Initiald(1).mp4"
 	},
 	{
 		name: "Love 2 Fast",
