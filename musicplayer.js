@@ -11,7 +11,6 @@ let auto_play = document.querySelector('#auto');
 let present = document.querySelector('#present');
 let total = document.querySelector('#total');
 let artist = document.querySelector('#artist');
-bg_video.autoplay = true;
 
 
 
@@ -131,6 +130,7 @@ function load_track(index_no) {
     bg_video.style.objectFit = "cover";
     bg_video.style.zIndex = "-1";
     bg_video.loop = true;
+	
     document.body.appendChild(bg_video);
 
     if (previous_video !== null) {
@@ -140,6 +140,8 @@ function load_track(index_no) {
     }
 
     bg_video.play();
+	
+	
     previous_video = bg_video;
 
     track.src = All_song[index_no].path;
@@ -152,7 +154,7 @@ function load_track(index_no) {
     timer = setInterval(range_slider, 1000);
     total.innerHTML = All_song.length;
     present.innerHTML = index_no + 1;
-	playsong(); // Start playing the track automatically
+	playsong(); 
 }
 load_track(index_no);
 
