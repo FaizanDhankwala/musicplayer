@@ -38,14 +38,14 @@ let All_song = [{
 		img: "images/SteveLacy_ApolloXXI.webp",
 		singer: "Steve Lacy",
         bg_color: "#fff",
-		bg_video: "video/stevelacy.mp4"
+		bg_video: "Stevelacy(2).mp4"
 	},
 	{
 		name: "Pluto Projector",
 		path: "music/Rex Orange County - Pluto Projector (Official Audio).mp3",
 		img: "images/rexx.jpg",
 		singer: "Rex Orange County",
-        bg_video: "video/plutoprojector.mp4"
+        bg_video: "Plutoprojector(1).mp4"
 	},
 
     {
@@ -53,7 +53,7 @@ let All_song = [{
 		path: "music/SimpsonWave1995 (sped up).mp3",
 		img: "images/cyberpunk.jpg",
 		singer: "Frankjavcee",
-        bg_video: "video/cy6ber.mp4"
+        bg_video: "Cy6ber(2).mp4"
 	},
 
     {
@@ -61,14 +61,14 @@ let All_song = [{
 		path: "music/Haikyuu!! 2nd Season OST - Direct Confrontation.mp3",
 		img: "images/hinata.jpg",
 		singer: "Yuki Hayashi",
-        bg_video: "video/haikyuuvideo2.mp4"
+        bg_video: "Haikyuu.mp4"
 	},
 	 {
 		name: " Romantic Homocide",
 		path: "music/romantic.mp3",
 		img: "images/romantic.png",
 		singer: "D4vd",
-        bg_video: "video/romantic.mp4"
+        bg_video: "Romantic(2).mp4"
 	
 
 	},
@@ -77,7 +77,7 @@ let All_song = [{
 		path:"music/lostinparadise.mp3",
 		img: "images/lostinparadise.jpg",
 		singer: "ALI",
-		bg_video: "video/lostinparadise.mp4"
+		bg_video: "Lostinparadise(1).mp4"
 	},
 
 	{
@@ -85,7 +85,7 @@ let All_song = [{
 		path: "music/midnigthcity.mp3",
 		img: "images/hurryupweredreaming.jpg",
 		singer: "M83",
-		bg_video: "video/night.mp4"
+		bg_video: "Night(1)(3).mp4"
 	},
 
 	{
@@ -93,7 +93,7 @@ let All_song = [{
 		path: "music/makingtime.mp3",
 		img:"images/rex.png",
 		singer: "Rex Orange County",
-		bg_video: "video/rexxx.mp4"
+		bg_video: "Rexxx(1).mp4"
 	},
 
 	{
@@ -101,7 +101,7 @@ let All_song = [{
 		path: "music/paradise.mp3",
 		img: "images/mylox.jpg",
 		singer: "Coldplay",
-		bg_video: "video/paradise.mp4"
+		bg_video: "Paradise(1).mp4"
 	}
 ];
 
